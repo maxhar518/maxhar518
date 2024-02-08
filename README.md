@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxhar518
-- 👀 I’m interested in Generattive AI 
+- 👀 I’m interested in Generative AI 
 - 🌱 I’m currently learning Chatbot And AI
    at @saylani mass IT
 - 💞️ I’m looking to collaborate with software
