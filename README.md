@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxhar518
+- 👋 Hi, I’m @MAZHAR ALI
 - 👀 I’m interested in Generative AI 
 - 🌱 I’m currently learning Chatbot And AI
    at @saylani mass IT
