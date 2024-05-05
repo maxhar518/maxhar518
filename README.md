@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAZHAR ALI
 - 👀 I’m interested in Generative AI
-- I'm pursing professional Degree in BS COMPUTER SCIENCE
+- 🎓I'm pursing professional Degree in BS COMPUTER SCIENCE
 - 🌱 I’m currently learning Chatbot And AI
    at @saylani mass IT
 - 💞️ I’m looking to collaborate with software
