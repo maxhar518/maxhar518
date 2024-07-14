@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mazharali518/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazharali518/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mazhar.buriro.92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mazhar.buriro.92/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mazhar-ali-3b0b1326a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Page Not Found" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mazhar.buriro.92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sorry Page Not found" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
