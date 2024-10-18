@@ -12,11 +12,11 @@
     <br>
     <a href="#">
         <img height="190rem" alt="GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=malivinayak&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=99c2ff&hide_border=true&custom_title=My+Github+Stats&ring_color=0083B3" />
+            src="https://github-readme-stats.vercel.app/api?username=maxhar518&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=99c2ff&hide_border=true&custom_title=My+Github+Stats&ring_color=0083B3" />
     </a>
     <a href="#">
         <img height="190rem" alt="Most Used Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=malivinayak&langs_count=8&count_private=false&layout=compact&theme=transparent&bg_color=0d1117&text_color=99c2ff&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxhar518&langs_count=8&count_private=false&layout=compact&theme=transparent&bg_color=0d1117&text_color=99c2ff&hide_border=true" />
     </a>
 </div>
 
@@ -128,8 +128,4 @@
         </a>
     </p>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxhar518&show_icons=true&locale=en&layout=compact" alt="maxhar518" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxhar518&" alt="maxhar518" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxhar518&show_icons=true&locale=en" alt="maxhar518" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxhar518&" alt="maxhar518" /></p>
